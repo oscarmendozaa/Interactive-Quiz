@@ -1,8 +1,43 @@
 const quiz = [
     {
-        question: "When is Musia's birthday?",
-        answers: ["January 1st", "February 2nd", "March 3rd", "April 21th"],
-        correctAnswer: "April 21th"
+        question: "When did Oscar join to ControlHub?",
+        answers: ["January 1st", "April 25th", "March 3rd", "April 21th"],
+        correctAnswer: "April 25th"
+    },
+    {
+        question: "What's Oscar's favorite color?",
+        answers: ["Brown", "White", "Red", "Green"],
+        correctAnswer: "White"
+    },
+    {
+        question: "When is Oscar's Birthday?",
+        answers: ["August 1st", "July 2nd", "September 27th", "August 27th"],
+        correctAnswer: "August 27th"
+    },
+    {
+        question: "What is Rodrigo's favorite phrase?",
+        answers: ["Lets F. Go", "Ehh uuuuu", "I love AI", "I love Musia"],
+        correctAnswer: "Lets F. Go"
+    },
+    {
+        question: "What is Sam's favorite phrase?",
+        answers: ["No digas Mmmdas", "Peace", "Alv", "Ese ataque fue de gratis"],
+        correctAnswer: "Peace"
+    },
+    {
+        question: "Where did we have multiple integrations?",
+        answers: ["Cabanna", "Charros-Mariachis", "We-work", "Connectory"],
+        correctAnswer: "Charros-Mariachis"
+    },
+    {
+        question: "How many locations has Elisa had in GDL?",
+        answers: ["2", "3", "4", "5"],
+        correctAnswer: "4"
+    },
+    {
+        question: "What is Marcus's favorite phrase?",
+        answers: ["Not mandatory", "On that noted", "Happy Monday", "How was everybody weekend"],
+        correctAnswer: "On that noted"
     },
     {
         question: "What is Elisa's favorite word?",
